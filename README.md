@@ -10,12 +10,12 @@ This project is related to social network posting. User can register yourself an
 
 Clone the repository
 ```shell
-git clone 
+git clone https://github.com/vandanaviox/socialNetwork.git
 ```
 
 Change the directory
 ```shell
-cd 
+cd socialNetwork
 ```
 
 Create and active environment and install dependencies
